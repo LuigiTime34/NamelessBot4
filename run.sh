@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Ensuring dependencies for Main Bot are up to date..."
+echo "Ensuring dependencies for Trading Bot are up to date..."
 # This command installs/updates/removes packages to match requirements.txt
 uv pip sync requirements.txt
 
